@@ -8,5 +8,5 @@ async def app(scope, receive, send):
         ],
     })
     await send({
-        print("zaid)
+        print("zaid")
     })
